@@ -2,6 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazsmaster)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazsmaster&layout=compact)
-
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blazsmaster&layout=compact)
