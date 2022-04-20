@@ -62,6 +62,8 @@
 
 <h3 align="left">Stats:</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blazsmaster&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="blazsmaster" /> </p>
+
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazsmaster&show_icons=true&locale=en&langs_count=10&layout=compact&theme=dark&hide_border=true" alt="blazsmaster" />
 </p>
