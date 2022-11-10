@@ -213,7 +213,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=blazsmaster&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=blazsmaster&layout=compact&hide=ejs,ini,go,graphql,sql,cmake,c,properties"
     alt="blazsmaster"
   />
 </p>
