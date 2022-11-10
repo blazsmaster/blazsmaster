@@ -8,10 +8,9 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **a hungarian student platform**
-- 🌱 I’m currently learning **socket.io**
-- 💬 Ask me about **Javascript**
-- ⚡ Fun fact: **I think I am funny, but not :|**
+- 🔭 I’m currently working on **a next generation student platform**
+- 🌱 I’m currently learning **c++**
+- 💬 Ask me about **javascript**
 
 <h3 align="left">Languages and Tools:</h3>
 
