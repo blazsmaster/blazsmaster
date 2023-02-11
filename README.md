@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm blazsmaster</h1>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
       src="https://github-profile-trophy.vercel.app/?username=blazsmaster&theme=discord&margin-w=15&no-frame=true&column=7"
       alt="blazsmaster"
-  /></a>
+    />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **a next generation student platform**
@@ -184,35 +185,8 @@
 
 <h3 align="left">Stats:</h3>
 
-<p align="left">
-  <img
-    style="border-radius: 4px"
-    src="https://komarev.com/ghpvc/?username=blazsmaster&label=Profile%20views&color=0e75b6&style=for-the-badge"
-    alt="blazsmaster"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=blazsmaster&show_icons=true&locale=en&langs_count=10&layout=compact&theme=dark&hide_border=true"
-    alt="blazsmaster"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=blazsmaster&show_icons=true&locale=en&theme=dark&hide_border=true"
-    alt="blazsmaster"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=blazsmaster&theme=dark&hide_border=true"
-    alt="blazsmaster"
-  />
-</p>
-
+<img
+  style="border-radius: 4px"
+  src="https://komarev.com/ghpvc/?username=blazsmaster&label=Profile%20views&style=for-the-badge&color=161b22"
+  alt="blazsmaster"
+/>
