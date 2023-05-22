@@ -18,8 +18,10 @@
 
 ###### learning
 
+<div>
 <img alt='C++' src='https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff' />
 <img alt='Kotlin' src='https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff' />
+</div>
 
 ### Frontend Development
 
