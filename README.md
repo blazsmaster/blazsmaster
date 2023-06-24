@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **c++**
 - 👨‍💻 All of my projects are available at the [repositories](https://github.com/blazsmaster?tab=repositories) tab
 - 💬 Ask me about **javascript && typescript**
-- 📫 How to reach me `Mr. Dogee#6959` on discord
+- 📫 How to reach me `@unrealdoggo` on discord
 
 ## Skills
 
