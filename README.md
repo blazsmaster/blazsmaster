@@ -1,100 +1,109 @@
-<h1 align="center">Hi, I am blazsmaster! 👋</h1>
+<div align="center">
 
-- 🔭 I’m currently working on **a next generation student platform**
-- 🌱 I’m currently learning **c++**
-- 👨‍💻 All of my projects are available at the [repositories](https://github.com/blazsmaster?tab=repositories) tab
-- 💬 Ask me about **javascript && typescript**
-- 📫 How to reach me `@unrealdoggo` on discord
+<h1 align="center"><img src="https://i.imgur.com/0J81H5T.gif" width="35px" height="35px"> Hi there, blazsmaster</h1>
 
-## Skills
+Student and aspiring Full-Stack Developer, proficient in **JavaScript** and **TypeScript**. Specializing in creating
+software
+for both web and desktop platforms. I’m here to deliver reliable and efficient software solutions as I learn and grow in
+the field.
 
-### Programming Languages
+![Visitors](https://komarev.com/ghpvc/?username=blazsmaster&abbreviated=true&bg=black&color=grey)
+![@unrealdoggo on Discord](https://img.shields.io/badge/@unrealdoggo-%235865f2.svg?logo=discord&logoColor=white)
 
-<div>
-<img alt='TypeScript' src='https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff' />
-<img alt='JavaScript' src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333' />
-<img alt='Python' src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=fff' />
 </div>
 
-###### learning
+## 💻 Tech Stack:
 
-<div>
-<img alt='C++' src='https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff' />
-<img alt='Kotlin' src='https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff' />
-</div>
+### Languages
 
-### Frontend Development
+![C# 1y exp](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3 5y exp](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 5y exp](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript 4y exp](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python 3y exp](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust 1y exp](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript 3y exp](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div>
-<img alt='HTML5' src='https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff' />
-<img alt='CSS3' src='https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff' />
-<img alt='Sass' src='https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff' />
-<img alt='Next.js' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff' />
-<img alt='React' src='https://img.shields.io/badge/react-333?style=for-the-badge&logo=react&logoColor=61DAFB' />
-<img alt='Redux' src='https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff' />
-<img alt='Bootstrap' src='https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff' />
-<img alt='Tailwind CSS' src='https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff' />
-</div>
+### Hosting/SaaS
 
-### Backend Development
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<div>
-<img alt='Node.js' src='https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff' />
-<img alt='Express' src='https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff' />
-<img alt='nginx' src='https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff' />
-<img alt='GraphQL' src='https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=fff' />
-</div>
+### Frameworks, Platforms & Libraries
+
+#### Frontend Libraries and Frameworks
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Libraries and Frameworks
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+#### Package Managers
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+
+#### Build Tools
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Desktop Application Frameworks
+
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+
+#### Runtime Environment
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Servers
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Databases
 
-<div>
-<img alt='MongoDB' src='https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff' />
-<img alt='MySQL' src='https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff' />
-<img alt='SQLite' src='https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff' />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Softwares
+
+![DataGrip](https://img.shields.io/badge/DataGrip-6e87c5?style=for-the-badge&logo=datagrip&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitKraken](https://img.shields.io/badge/gitkraken-%23179287.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-3f71ee?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm Professional](https://img.shields.io/badge/PyCharm-5fd495?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/Webstorm-4cbbec?style=for-the-badge&logo=webstorm&logoColor=white)
 
 ### DevOps
 
-<div>
-<img alt='Microsoft Azure' src='https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=fff' />
-<img alt='Firebase' src='https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333' />
-</div>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Software
+### Tools
 
-<div>
-<img alt='Git' src='https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff' />
-<img alt='GitKraken' src='https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=fff' />
-<img alt='Firefox Developer Edition' src='https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=fff' />
-<img alt='WebStorm' src='https://img.shields.io/badge/webstorm-4cbbec?style=for-the-badge&logo=webstorm&logoColor=fff' />
-<img alt='IntelliJ IDEA' src='https://img.shields.io/badge/intellij%20idea-3f71ee?style=for-the-badge&logo=intellij-idea&logoColor=fff' />
-<img alt='PyCharm Professional' src='https://img.shields.io/badge/pycharm-5fd495?style=for-the-badge&logo=pycharm&logoColor=fff' />
-<img alt='DataGrip' src='https://img.shields.io/badge/datagrip-6e87c5?style=for-the-badge&logo=datagrip&logoColor=fff' />
-<img alt='Visual Studio Code' src='https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff' />
-</div>
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Jest for testing](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman for API test](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### OS
+### Systems
 
-<div>
-<img alt='Windows' src='https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff' />
-<img alt='Ubuntu' src='https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff' />
-<img alt='Debian' src='https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff' />
-<img alt='Kali Linux' src='https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=fff' />
-</div>
+![Debian for servers](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows for basic tasks](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Stats
+## 📊 Stats:
 
-<div>
-<a href="https://discord.com/users/688486778117816383">
-  <img style='height: 210px' src="https://lanyard.cnrad.dev/api/688486778117816383?bg=24292f&idleMessage=...&borderRadius=5px" alt="Discord Presence">
-</a>
-<img style='height: 210px' src="https://github-readme-stats.vercel.app/api?username=blazsmaster&show_icons=true&theme=github_dark_dimmed&border_color=25292f" alt="blazsmaster's GitHub stats">
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazsmaster&layout=compact&theme=github_dark_dimmed&border_color=25292f" alt="blazsmaster's Top Languages">
-
-## Contact
-
-<a href="https://discord.com/users/688486778117816383">
-<img alt='Discord' src='https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff' />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=blazsmaster&theme=tokyonight&hide_border=true&show_icons=true&hide=contribs,prs)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=blazsmaster&theme=tokyonight&hide_border=true)<br/>
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blazsmaster&theme=tokyonight&hide_border=true&layout=compact)
