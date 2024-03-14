@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://i.imgur.com/0J81H5T.gif" width="35px" height="35px"> Hi there, blazsmaster</h1>
+<h1 align="center"><img src="https://i.imgur.com/0J81H5T.gif" width="35px" height="35px"> Hi there, I'm blazsmaster</h1>
 
 Student and aspiring Full-Stack Developer, proficient in **JavaScript** and **TypeScript**. Specializing in creating
 software
