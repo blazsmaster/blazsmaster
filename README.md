@@ -10,6 +10,10 @@ the field.
 ![Visitors](https://komarev.com/ghpvc/?username=blazsmaster&abbreviated=true&bg=black&color=grey)
 ![@unrealdoggo on Discord](https://img.shields.io/badge/@unrealdoggo-%235865f2.svg?logo=discord&logoColor=white)
 
+<br/>
+
+![Wakatime Coding Stats](https://wakatime.com/share/@blazsmaster/99686fcf-a8e2-4a57-91b2-35da27bce1f2.svg)
+
 </div>
 
 ## 💻 Tech Stack:
