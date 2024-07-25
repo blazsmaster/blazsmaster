@@ -9,10 +9,6 @@ the field.
 
 ![Visitors](https://komarev.com/ghpvc/?username=blazsmaster&abbreviated=true&bg=black&color=grey)
 ![@unrealdoggo on Discord](https://img.shields.io/badge/@unrealdoggo-%235865f2.svg?logo=discord&logoColor=white)
-[![Paypal](https://img.shields.io/badge/Paypal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/balazsbardocz)
-
-[![Bitcoin](https://img.shields.io/badge/3KSWa6D2XGMMxd37SofLVqmixYucoj6tq6-F7931A?style=flat&logo=bitcoin&logoColor=white)](#btc)
-[![Ethereum](https://img.shields.io/badge/0x6fc7b08fefa96fecc703fc9792aee51668a28cbd-626890?style=flat&logo=ethereum&logoColor=white)](#eth)
 
 <br/>
 
@@ -115,14 +111,3 @@ the field.
 ![](https://github-readme-stats.vercel.app/api?username=blazsmaster&theme=tokyonight&hide_border=true&show_icons=true&hide=contribs,prs)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=blazsmaster&theme=tokyonight&hide_border=true)<br/>
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blazsmaster&theme=tokyonight&hide_border=true&layout=compact)
-
-## 🪙 Support me:
-
-#### BTC
-
-`3KSWa6D2XGMMxd37SofLVqmixYucoj6tq6`
-`bc1qem0nemdnmjf7nf54qcavv9d4tmsera43fxhuvg`
-
-#### ETH
-
-`0x6fc7b08fefa96fecc703fc9792aee51668a28cbd`
