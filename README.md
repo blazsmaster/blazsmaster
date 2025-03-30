@@ -12,6 +12,8 @@ the field.
 
 <br/>
 
+![https://valid.x86.fr/ttvla2](https://valid.x86.fr/cache/banner/ttvla2-6.png)
+
 ![Wakatime Coding Stats](https://wakatime.com/share/@blazsmaster/99686fcf-a8e2-4a57-91b2-35da27bce1f2.svg)
 
 </div>
